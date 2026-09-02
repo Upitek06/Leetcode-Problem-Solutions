@@ -18,6 +18,12 @@ We can utilize a technique that checks the array from `both` the beginning and t
 4. Otherwise, validate whether the sum of the two is `less` than the `target`. If so, `add 1` to the `left` variable.
 5. If it turns out to be `bigger` then we subtract `1` from the `right`.
 6. If the loop ends, it returns an empty list
+
+## Solutions Languange
+- C++
+- Python
+- Javascript
+
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
 - **Space Complexity**: `O(1)` — We store `1` string elements inside the result list.
