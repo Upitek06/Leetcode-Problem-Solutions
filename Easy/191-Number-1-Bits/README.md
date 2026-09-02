@@ -12,6 +12,10 @@ As you read this, you might realize that it is binary and we know that binary is
 5. Then, update the value of `n` to `n` divided by 2 to find the answer and exhaust n.
 6. And the last return list.
 
+## Solutions Languange
+- C++
+- Python
+
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `n` to `0` exactly once.
 - **Space Complexity**: `O(N)` — We store `n` string elements inside the result list.
