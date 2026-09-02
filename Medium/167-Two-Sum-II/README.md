@@ -25,5 +25,5 @@ We can utilize a technique that checks the array from `both` the beginning and t
 - Javascript
 
 ## Complexity
-- **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
-- **Space Complexity**: `O(1)` — We store `1` string elements inside the result list.
+- **Time Complexity**: `O(N)` — We perform the iteration as long as the condition allows.
+- **Space Complexity**: `O(N)` — We store `N` number elements inside the result list.
