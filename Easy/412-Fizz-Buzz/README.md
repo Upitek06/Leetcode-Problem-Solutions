@@ -14,8 +14,12 @@ I used a simple loop and standard `if-else` conditions to solve this problem:
 3. Check if `i` is divisible by both 3 and 5, then append `"FizzBuzz"` to the list.
 4. Check if `i` is divisible by 3, then append `"Fizz"`.
 5. Check if `i` is divisible by 5, then append `"Buzz"`.
-6. If `i` is not divisible by 3 or 5, append `i` (converted to string) to the list.
+6. If `i` is not divisible by `3` or `5`, append `i` (converted to string) to the list.
 7. Return the final list.
+
+## Solutions Languange
+- C++
+- Python
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
