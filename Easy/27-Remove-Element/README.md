@@ -17,7 +17,9 @@ The approach to solving this problem involves skipping the current `value` if it
 4. Return the anti-duplicate variable..
 
 ## Solutions Languange
+- C++
 - Python
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate `0` to `n` value
