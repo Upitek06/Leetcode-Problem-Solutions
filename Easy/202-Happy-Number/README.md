@@ -23,6 +23,7 @@ The approach I am using for this problem employs concise `recursion`.
 7. After the loop **finishes**, we call the problem *function again and replace the variable* `n` with the variable we initialized earlier
 
 ## Solutions Languange
+- C++
 - Python
 
 ## Complexity
