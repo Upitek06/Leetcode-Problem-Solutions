@@ -25,6 +25,7 @@ The approach I am using for this problem employs concise `recursion`.
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(log n)` — We perform a conditional loop, the value of which decreases by `n` with each iteration.
