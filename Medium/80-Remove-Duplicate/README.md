@@ -22,4 +22,4 @@ The approach I used was to limit duplicates to `k`.
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use loops value.
-- **Space Complexity**: `O(i)` — We modify it directly within the loop.
+- **Space Complexity**: `O(1)` — We modify it directly within the loop.
