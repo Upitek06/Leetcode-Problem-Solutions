@@ -14,8 +14,7 @@ The approach I used to solve this problem was to create `two` separate loops: `o
 
 ## Solutions Languange
 - C++
-- Python
 
 ## Complexity
-- **Time Complexity**: `O(N)` — We iterate from `n` to `0` exactly once.
-- **Space Complexity**: `O(N)` — We store `n` elements for key and the values.
+- **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
+- **Space Complexity**: `O(1)` — We modify the `variable` directly without creating a new address
