@@ -15,6 +15,7 @@ The approach I used to solve this problem was to create `two` separate loops: `o
 ## Solutions Languange
 - C++ 
 - Python
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
