@@ -1,4 +1,4 @@
-# Leetcode 283: Move Zeroes
+# Leetcode 821: Shortest Distance to a Character
 
 # Description
 Given a string `s` and a character `c` that occurs in `s`, return *an array of integers* `answer` *where* `answer.length == s.length` *and* `answer[i]` *is the ***distance*** from index* `i` *to the ***closest*** occurrence of character* `c` in `s`.
