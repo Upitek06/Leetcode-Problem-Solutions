@@ -17,6 +17,7 @@ To solve this problem, use `two loops`: one to determine the position of the tar
 8. After the entire loop is complete, return the array `result`.
 
 ## Solutions Languange
+- C++
 - Python
 
 ## Complexity
