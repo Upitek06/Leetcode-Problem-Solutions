@@ -19,6 +19,7 @@ To solve this problem, use `two loops`: one to determine the position of the tar
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` for two times.
