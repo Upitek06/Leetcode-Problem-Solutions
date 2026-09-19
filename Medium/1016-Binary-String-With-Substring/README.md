@@ -15,10 +15,8 @@ To solve this problem, I used the following approach: if the current **binary** 
 4. If the loop has finished, **return true**
 
 ## Solutions Languange
-- C++
 - Python
-- JavaScript
 
 ## Complexity
-- **Time Complexity**: `O(N)` — We iterate `0` to `n` value
-- **Space Complexity**: `O(1)` — We substitute the `value` directly.
+- **Time Complexity**: `O(N)` — We iterate `n` to `n/2` value
+- **Space Complexity**: `O(N)` — We store the `value` in a string
