@@ -19,6 +19,7 @@ For this **"Two Sum"** problem, since the requirement is to return the indices t
 - C++
 - Python
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `b` exactly once.
