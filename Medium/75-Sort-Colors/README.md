@@ -18,6 +18,7 @@ The approach I used to solve this problem was **Three-pointers.**
 - C++
 - Python
 - JavaScript
+- Typescript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use nested conditional loops.
