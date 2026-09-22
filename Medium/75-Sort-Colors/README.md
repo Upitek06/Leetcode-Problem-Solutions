@@ -17,6 +17,7 @@ The approach I used to solve this problem was **Three-pointers.**
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use nested conditional loops.
