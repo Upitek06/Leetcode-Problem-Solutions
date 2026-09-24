@@ -22,5 +22,5 @@ For this **"Two Sum"** problem, since the requirement is to return the indices t
 - TypeScript
 
 ## Complexity
-- **Time Complexity**: `O(N)` — We iterate from `0` to `b` exactly once.
+- **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
 - **Space Complexity**: `O(N)` — We store `n` string elements inside the result list.
