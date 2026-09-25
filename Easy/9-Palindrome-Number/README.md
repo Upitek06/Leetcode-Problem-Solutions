@@ -13,6 +13,8 @@ To solve this problem, use the following approach: if the `left` and `right` end
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
