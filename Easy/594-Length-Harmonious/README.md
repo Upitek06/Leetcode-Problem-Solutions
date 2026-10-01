@@ -17,6 +17,8 @@ To solve this problem, I used a **hash map**
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate for search `frequency` in hash map.
