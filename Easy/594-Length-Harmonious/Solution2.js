@@ -3,6 +3,7 @@
  * @return {number}
  */
 var findLHS = function (nums) {
+    
     nums.sort((a, b) => a - b);
     let j = 0, lengthEnd = 0;
     for (let i = 0; i < nums.length; ++i) {
