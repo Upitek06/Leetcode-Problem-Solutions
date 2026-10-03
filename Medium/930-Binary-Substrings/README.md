@@ -17,6 +17,8 @@ I use an approach that involves subtracting the *original goal resul*t from *the
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(n log n)` — We use iteration and conditional loop.
