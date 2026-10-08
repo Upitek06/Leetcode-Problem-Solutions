@@ -22,6 +22,7 @@ The approach I used to solve this problem was to use *the length of the problem 
 ## Solutions Languange
 - Python
 - C++
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
