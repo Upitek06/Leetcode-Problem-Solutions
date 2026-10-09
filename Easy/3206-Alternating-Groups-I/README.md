@@ -23,6 +23,7 @@ The approach I used to solve this problem was to use *the length of the problem 
 - Python
 - C++
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` exactly once.
