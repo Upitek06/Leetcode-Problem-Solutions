@@ -22,6 +22,7 @@ I use a sliding window approach to solve this problem
 ## Solutions Languange
 - Python
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O((r - i + 1) * n)` — Complexity based on the initial value
