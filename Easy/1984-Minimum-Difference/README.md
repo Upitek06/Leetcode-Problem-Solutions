@@ -17,6 +17,8 @@ I use a standard loop termination condition by finding the **smallest** value in
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(K)` — We iterate from `0` to `k` exactly once.
