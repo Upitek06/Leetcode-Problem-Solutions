@@ -16,6 +16,8 @@ I use the **sliding window** approach.
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `0` to `n` and short while exactly once.
