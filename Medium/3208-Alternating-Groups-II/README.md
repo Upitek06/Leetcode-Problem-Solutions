@@ -23,6 +23,8 @@ TI use the **two pointers** approach
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use nested conditional loops.
