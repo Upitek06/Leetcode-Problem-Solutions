@@ -15,6 +15,8 @@ I use a dictionary because it allows for `filtering` and `index` reduction to be
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `n` to `0` exactly once.
