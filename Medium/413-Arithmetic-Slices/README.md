@@ -1,4 +1,4 @@
-# Leetcode 75: Sort Colors
+# Leetcode 413: Arithmetic Slices
 
 ## Description
 An integer array is called arithmetic if it consists of **at least three elements** and if the difference between any two consecutive elements is the same.
@@ -23,6 +23,7 @@ I use this approach to check whether the differences after subtraction are equal
 ## Solutions Languange
 - C++
 - Python
+- GO
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We loop as many times as the length of the array
