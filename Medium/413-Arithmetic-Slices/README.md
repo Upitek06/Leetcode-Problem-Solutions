@@ -24,6 +24,8 @@ I use this approach to check whether the differences after subtraction are equal
 - C++
 - Python
 - GO
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We loop as many times as the length of the array
