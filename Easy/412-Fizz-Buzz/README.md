@@ -20,6 +20,7 @@ I used a simple loop and standard `if-else` conditions to solve this problem:
 ## Solutions Languange
 - C++
 - Python
+- Go
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
