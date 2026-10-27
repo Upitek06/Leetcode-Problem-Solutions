@@ -21,6 +21,7 @@ I used a simple loop and standard `if-else` conditions to solve this problem:
 - C++
 - Python
 - Go
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
