@@ -18,6 +18,7 @@ I use the **“cut-off”** approach.
 ## Solutions Languange
 - C++
 - Python
+- Go
 
 ## Complexity
 - **Time Complexity**: `O(Log N)` — We **cut** the execution time of each loop in **half**.
