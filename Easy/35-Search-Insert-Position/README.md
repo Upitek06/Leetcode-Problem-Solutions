@@ -16,9 +16,11 @@ I use the **“cut-off”** approach.
 7. after loop finished. Return **left value**.
 
 ## Solutions Languange
-- C++
+- C++ 
 - Python
 - Go
+- JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(Log N)` — We **cut** the execution time of each loop in **half**.
