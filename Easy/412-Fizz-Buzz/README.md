@@ -23,6 +23,7 @@ I used a simple loop and standard `if-else` conditions to solve this problem:
 - Go
 - JavaScript
 - TypeScript
+- Dart
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from 1 to `n` exactly once.
