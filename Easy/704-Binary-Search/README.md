@@ -17,6 +17,9 @@ Since the problem requires a **time complexity** of `O(log n)`, we must divide t
 ## Solutions Languange
 - C++
 - Python
+- JavaScript
+- TypeScript
+- GO
 
 ## Complexity
 - **Time Complexity**: `O(Log N)` — We always break down every process.
