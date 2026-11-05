@@ -15,6 +15,7 @@ I solved this problem by setting the last element of the array to `0` if its `va
 - Python
 - JavaScript
 - TypeScript
+- GO
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `n-1` to `0` exactly once.
