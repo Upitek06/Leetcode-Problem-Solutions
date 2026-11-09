@@ -25,6 +25,7 @@ We can utilize a technique that checks the array from `both` the beginning and t
 - JavaScript
 - TypeScript
 - Go
+- Dart
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We perform the iteration as long as the condition allows.
