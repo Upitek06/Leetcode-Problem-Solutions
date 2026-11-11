@@ -21,6 +21,7 @@ To solve this problem, I used a **sliding windows** approach with balanced const
 - C++
 - JavaScript
 - Python
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We perform the iteration as long as the condition allows.
