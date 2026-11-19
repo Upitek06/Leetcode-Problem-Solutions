@@ -18,8 +18,8 @@ For this problem, I am using a `three-pointer` approach by setting `left` and `r
 
 ## Solutions Languange
 - C++
-- JavaScript
 - Python
+- JavaScript
 - TypeScript
 
 ## Complexity
