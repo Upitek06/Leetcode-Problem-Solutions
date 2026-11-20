@@ -19,6 +19,8 @@ The approach I used was to limit duplicates to `k`.
 
 ## Solutions Languange
 - Python
+- C++
+- JavaScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use loops value.
