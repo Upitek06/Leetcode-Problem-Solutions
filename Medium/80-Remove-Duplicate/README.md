@@ -21,6 +21,7 @@ The approach I used was to limit duplicates to `k`.
 - Python
 - C++
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use loops value.
