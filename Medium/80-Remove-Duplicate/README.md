@@ -22,6 +22,7 @@ The approach I used was to limit duplicates to `k`.
 - C++
 - JavaScript
 - TypeScript
+- Go
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We use loops value.
