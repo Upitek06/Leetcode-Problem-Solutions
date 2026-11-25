@@ -27,6 +27,7 @@ The approach I used to solve this **sliding window** problem
 - Python
 - C++
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N^2)` — We iterate from `i` to `n` and `j` to `n`.
