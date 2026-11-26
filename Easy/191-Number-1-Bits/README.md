@@ -15,6 +15,7 @@ As you read this, you might realize that it is binary and we know that binary is
 ## Solutions Languange
 - C++
 - Python
+- Go
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `n` to `0` exactly once.
