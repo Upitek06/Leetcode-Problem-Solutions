@@ -17,6 +17,7 @@ As you read this, you might realize that it is binary and we know that binary is
 - Python
 - Go
 - JavaScript
+- TypeScript
 
 ## Complexity
 - **Time Complexity**: `O(N)` — We iterate from `n` to `0` exactly once.
